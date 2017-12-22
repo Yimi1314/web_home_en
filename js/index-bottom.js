@@ -5,12 +5,12 @@ $(function() {
  	$(window).resize(function(){
  		init_size();
  	})
- 	$(".five_start").attr("src","./img/2-12.jpg");
+/* 	$(".five_start").attr("src","./img/2-12.jpg");
  	$(".yin").attr("src","./img/2-13.jpg");
  	$(".cup_img").attr("src","./img/2-11.jpg");
  	$(".img_1").attr("src","./img/2-06.jpg");
  	$(".img_2").attr("src","./img/2-07.jpg");
- 	$(".img_3").attr("src","./img/2-14.jpg");
+ 	$(".img_3").attr("src","./img/2-14.jpg");*/
 });
 
 function init_size(){

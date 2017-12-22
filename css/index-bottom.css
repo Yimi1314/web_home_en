@@ -129,9 +129,9 @@
 	color: #585657;
 }
 .Urls{
-	width: 90%;
+	width: 70%;
 	height: 300px;
-	margin:10px auto;
+	margin:30px auto;
 	background: url(../img/2-15.jpg) center center no-repeat;
 	background-size: 100%; 
 }
@@ -160,19 +160,22 @@
 	padding: 50px 0 20px 0;
 }
 .buy_btn{
+	padding-bottom: 30px;
+}
+.buy_btn a{
+	display: block;
+	color: #716406;
 	background-color: #ffec01;
 	text-align: center;
 	margin:0 auto;
 	width: 16%;
 	height: 30px;
-	border-radius: 8px;
+	border-radius: 20px;
 	line-height: 30px;
 	border: none;
-}
-.buy_btn a{
 	text-decoration: none;
 }
-.buy_btn:hover{
+.buy_btn a:hover{
 	background-color: #f7ce65;
 }
 
@@ -231,9 +234,9 @@
 		font-size: 12px;
 	}
 	.Urls{
-		width: 95%;
+		width: 90%;
 		height: 100px;
-		margin: 20px auto;
+		margin: 0 auto 20px;
 	}
 	.Buy_now{
 		background: url(../img/2-16.jpg) center center no-repeat;
@@ -250,7 +253,9 @@
 		padding-top:160px;
 	}
 	.buy_btn{
-		width: 32%;
-		height: 30px;
+		padding-bottom: 25px;
+	}
+	.buy_btn a{
+		width: 50%;
 	}
 }
